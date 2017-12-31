@@ -11,17 +11,6 @@ This program is set to brute-force test for the fractal dimension of an object. 
 
 
 
-This program works best with large resolution fractals, or fractals with many iterations. It can also be modified to work with simple 2d binary arrays. 
+This program works best with large resolution fractals / fractals with many iterations. It can also be modified to work with simple 2d binary arrays. 
 
 This is a winter break project, so do not expect perfection.
-
-
-Big sierpinski - no
-large sierpinski - yes
-circle - no
-square - no
-carpet 5 - yes
-carpet 6 - yes
-carpet big 7 - yes
-
-
